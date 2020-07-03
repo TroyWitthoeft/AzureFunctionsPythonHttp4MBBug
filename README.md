@@ -12,7 +12,7 @@ Burned a few days on it.  Repro'd locally in func.exe core tools.
 Maintainers
 TODO: Got E2E test for various file / payload sizes?
 SUGGEST: Do we automate E2E test with DevOps/Postman?
-https://medium.com/@ganeshsirsi/how-to-configure-postman-newman-api-tests-in-azure-devops-or-tfs-and-publish-html-results-caf60a
+https://medium.com/@ganeshsirsi/how-to-configure-postman-newman-api-tests-in-azure-devops-or-tfs-and-publish-html-results-caf60a25c8b9
 
 Note: 💪 Go open source! Thanks for MS team for releasing this hotfix!
 
